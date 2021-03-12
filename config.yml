@@ -18,7 +18,8 @@ params:
   disqusShortname: null
   timezoneString: " UTC"
   logo: images/uploads/dw-whmcs.png
-  description_header: ""
+  description_header: If you are facing any issues and dont see anything here
+    email support@devonwebs.uk and we will investigate your issue.
   copyrightHolder: DevonWebs 2021
   eventsPerPage: 10
   iconType: image/png
