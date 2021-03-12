@@ -16,7 +16,7 @@ params:
   dateFormat: January 2, 2006 at 3:04 PM
   disqusShortname: null
   timezoneString: " UTC"
-  logo: static/images/uploads/dw-whmcs.png
+  logo: images/uploads/dw-whmcs.png
   description_header: Information about <a class='text-grey-darkest' title='Visit
     example.com' href='https://www.example.com/'>example</a> systems
     operations.<br />Follow us <a class='text-grey-darkest' title='Visit our
@@ -26,8 +26,7 @@ params:
   copyrightHolder: DevonWebs 2021
   eventsPerPage: 10
   iconType: image/png
-  groups:
-    - Webservers
+  groups: []
   icon: /images/clearstatus.png
   description_footer: <a class='text-grey-darkest' title='DevonWebs'
     href='https://www.devonwebs.co.uk/'>DevonWebs</a>
