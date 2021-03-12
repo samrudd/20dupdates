@@ -6,12 +6,13 @@ params:
   meta_description: This status page provides updated information about our
     systems normal operation, incidents that may happen and their resolution.
   systems:
-    - name: Website
-      description: Our company public facing website
-      link: https://www.example.com/
-    - name: Helpdesk
-      description: Our company customer support site
+    - name: Main Site
+      description: ""
+      link: https://www.devonwebs.co.uk/
+    - name: Client Area
+      description: ""
       link: https://support.example.com/
+    - name: Core Network
   dateFormat: January 2, 2006 at 3:04 PM
   disqusShortname: null
   timezoneString: " UTC"
