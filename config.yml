@@ -26,6 +26,8 @@ params:
   copyrightHolder: DevonWebs 2021
   eventsPerPage: 10
   iconType: image/png
+  groups:
+    - Webservers
   icon: /images/clearstatus.png
   description_footer: <a class='text-grey-darkest' title='DevonWebs'
     href='https://www.devonwebs.co.uk/'>DevonWebs</a>
