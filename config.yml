@@ -13,6 +13,7 @@ params:
       description: ""
       link: https://support.example.com/
     - name: Core Network
+      link: https://network.20d.uk/
   dateFormat: January 2, 2006 at 3:04 PM
   disqusShortname: null
   timezoneString: " UTC"
